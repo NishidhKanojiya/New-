@@ -47,8 +47,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harish-kushwah" alt="GitHub Streak Stats">
 </div>
 
+<div align="left">
+<div align="left">
+  <h4 align="left">Support:</h4>
+</div>
 
-<div align="right">
-  <a href="https://www.buymeacoffee.com/harish-kushwah" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210"></a>
+<div align="left">
+  <a href="https://www.buymeacoffee.com/harish-kushwah" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40" width="110"></a>
+</div>
 </div>
 </div>
