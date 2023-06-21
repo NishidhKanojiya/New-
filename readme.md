@@ -25,13 +25,13 @@
  
 
 
-<p style=" margin:20 ">&nbsp;<img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=harish-kushwah&show_icons=true&locale=en" alt="harish-kushwah" />
+<p style=" margin:20 ">&nbsp;<img align="left" width="500" src="https://github-readme-stats.vercel.app/api?username=harish-kushwah&show_icons=true&locale=en" alt="harish-kushwah" />
 </p>
 
-<span>
-<p><img align="right" width="400" height="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=harish-kushwah&show_icons=true&locale=en&layout=compact" alt="harish-kushwah" /></p>
-</span>
-<p><img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=harish-kushwah&" alt="harish-kushwah" /></p>
+
+<p><img align="right" width="400" height="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=harish-kushwah&show_icons=true&locale=en&layout=compact" alt="harish-kushwah" /></p>
+
+<p><img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=harish-kushwah&" alt="harish-kushwah" /></p>
 
 
 <h3 align="left">Support:</h3>
