@@ -10,8 +10,7 @@
 
 - ⚡ Fun fact: I am funny 🤣
 
-![Profile Visits](https://img.shields.io/badge/Profile%20Visits-0-blue)
-
+![Visitor Count](https://komarev.com/ghpvc/?username=Harish-Kushwah&base=1000)
 ## Connect with me:
 <p align="left">
   <a href="https://linkedin.com/in/harish-kushwah" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"></a>
@@ -59,5 +58,9 @@
 <div align="left">
   <a href="https://www.buymeacoffee.com/harish-kushwah" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40" width="110"></a>
 </div>
+
+
+
+
 </div>
 </div>
