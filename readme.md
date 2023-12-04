@@ -16,7 +16,15 @@
   <a href="https://linkedin.com/in/harish-kushwah" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"></a>
   <a href="https://instagram.com/its_harry_7_" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"></a>
   <a href="https://www.codechef.com/users/harishkushwah7" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40"></a>
+
+ 
 </p>
+<p>
+
+ [![Twitter](https://img.shields.io/twitter/follow/HarishKushwah_7?style=social)](https://twitter.com/HarishKushwah_7)
+
+</p>
+
 
 ## Languages and Tools:
 <p align="left">
