@@ -15,9 +15,11 @@
 <p align="left">
   <a href="https://linkedin.com/in/harish-kushwah" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"></a>
   <a href="https://instagram.com/its_harry_7_" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"></a>
-  <a href="https://www.codechef.com/users/harishkushwah7" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40"></a>
 
- 
+  [![CodeChef](https://img.shields.io/badge/CodeChef-%235C4411.svg?&style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/harishkushwah7)
+  [![HackerRank](https://img.shields.io/badge/HackerRank-%01020f.svg?&style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/harishkushwah541)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Harish-Kushwah/)
+###
 </p>
 <p>
 
