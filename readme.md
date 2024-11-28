@@ -21,7 +21,6 @@
 
 
  [![Twitter](https://img.shields.io/twitter/follow/HarishKushwah_7?style=social)](https://twitter.com/HarishKushwah_7)
-
  <a href="https://harish-kushwah.github.io/my-portfolio/#/" target="_blank">⭐ View Portfolio </a>
 </p>
 <hr>
